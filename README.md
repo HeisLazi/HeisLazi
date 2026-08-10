@@ -10,9 +10,9 @@
 
 </div>
 
-## I'm Lazi 🦦
+## Hey, I'm Lazi 🦦
 
-Yea umm so I'm a **product-focused software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I turn operational needs and ambiguous ideas into structured requirements, thoughtful interfaces, and human-reviewed software.
+I'm a **product-focused software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I turn operational needs and ambiguous ideas into structured requirements, thoughtful interfaces, and human-reviewed software.
 
 My work currently spans requirements analysis, product and UI design, frontend development, QA, and delivery management. I create the product direction, user flows, interface decisions, and acceptance criteria; AI assists with implementation, while I remain responsible for scope, design quality, testing, verification, and final acceptance. I also have backend and deployment experience with Supabase, Vercel and Cloudflare.
 
