@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Lazarus Petrus - Python-first software developer" width="100%" />
+<img src="./assets/hero.svg" alt="Lazarus Petrus - Product-focused software developer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=D79921&center=true&vCenter=true&width=760&lines=Python-first+software+developer;Building+reliable+AI-assisted+applications;Software+Development+Intern+%40+Edge;Local-first+systems+%E2%80%A2+APIs+%E2%80%A2+automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=D79921&center=true&vCenter=true&width=760&lines=Product-focused+software+developer;Requirements+%E2%80%A2+UI%2FProduct+Design+%E2%80%A2+QA;AI-assisted+product+delivery;Frontend+%E2%80%A2+Supabase+%E2%80%A2+Cloudflare)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-Lazarus_Petrus-D79921?style=for-the-badge&logo=gmail&logoColor=1D2021)](mailto:lazi11petrus@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-HeisLazi-458588?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeisLazi)
@@ -12,27 +12,29 @@
 
 ## Hey, I'm Lazarus
 
-I'm a **Python-first software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I help turn operational needs into structured, human-reviewed internal software.
+I'm a **product-focused software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I turn operational needs and ambiguous ideas into structured requirements, thoughtful interfaces, and human-reviewed software.
 
-I enjoy building practical systems that sit between product thinking and engineering: APIs, local-first tools, automation pipelines, developer workflows, and AI-assisted applications that still have clear verification boundaries.
+My work currently spans requirements analysis, product and UI design, frontend development, QA, and delivery management. I create the product direction, user flows, interface decisions, and acceptance criteria; AI assists with implementation, while I remain responsible for scope, design quality, testing, verification, and final acceptance. I also have backend and deployment experience with Supabase and Cloudflare.
 
 ```python
 lazarus = {
-    "strongest_language": "Python",
-    "working_knowledge": ["JavaScript", "SQL", "HTML", "CSS"],
-    "currently_learning": ["React", "Next.js", "TypeScript", "Kotlin"],
-    "interests": ["AI applications", "automation", "local-first software", "game systems"],
+    "role": "Product-focused software developer",
+    "focus": ["Requirements analysis", "Product design", "UI design", "QA"],
+    "delivery": "AI-assisted implementation with human direction and verification",
+    "platform_experience": ["Supabase", "Cloudflare"],
+    "degree": "BSc Computer Science — Software Development",
     "principle": "Speed matters. Correctness still owns the merge button.",
 }
 ```
 
 ## What I bring
 
-- **Product-to-code thinking** - breaking ambiguous requirements into bounded implementation slices and acceptance criteria.
-- **Python application development** - APIs, data-processing pipelines, automation and modular backend systems.
-- **AI-assisted engineering** - selecting and coordinating models for planning, implementation and review without treating generated code as automatically correct.
-- **Verification discipline** - testing, type checks, builds, manual acceptance and security-boundary review.
-- **Context and cost optimization** - keeping model workflows focused, documented and efficient across longer projects.
+- **Requirements analysis** - translating ambiguous ideas and operational needs into clear scope, user flows and acceptance criteria.
+- **Product and UI design** - owning product direction, interaction decisions and interface design, with AI used as an implementation assistant.
+- **Frontend development** - building and refining usable interfaces across JavaScript, React, Next.js, HTML and CSS.
+- **AI-assisted delivery** - coordinating planning and implementation while keeping human judgment in charge of design, architecture and acceptance.
+- **QA and verification** - testing, type checks, builds, manual acceptance and security-boundary review.
+- **Backend and platform experience** - integrating application services and deployments with Supabase and Cloudflare.
 
 ## Featured work
 
@@ -60,11 +62,11 @@ lazarus = {
 ![HTML](https://img.shields.io/badge/HTML-Working-D65D0E?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Working-458588?style=flat-square&logo=css&logoColor=white)
 
-**Foundational / learning through projects**
+**Frontend project experience / currently deepening**
 
-![React](https://img.shields.io/badge/React-Foundational-83A598?style=flat-square&logo=react&logoColor=1D2021)
-![Next.js](https://img.shields.io/badge/Next.js-Foundational-3C3836?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Foundational-076678?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Project_Use-83A598?style=flat-square&logo=react&logoColor=1D2021)
+![Next.js](https://img.shields.io/badge/Next.js-Project_Use-3C3836?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Developing-076678?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Foundational-B57614?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Learning-8F3F71?style=flat-square&logo=kotlin&logoColor=white)
 
@@ -76,6 +78,8 @@ lazarus = {
 ![Docker](https://img.shields.io/badge/Docker-Project_Use-458588?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Project_Use-076678?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Project_Use-427B58?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Project_Use-3ECF8E?style=flat-square&logo=supabase&logoColor=1D2021)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Project_Use-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -91,7 +95,7 @@ flowchart LR
     E -->|fail| B
 ```
 
-AI helps me move faster, but I remain responsible for requirements, architectural choices, reviewing generated changes, correcting failures, testing and final acceptance.
+AI helps me implement faster, but it does not create my product direction or UI decisions. I remain responsible for requirements, user experience, architecture, reviewing generated changes, correcting failures, testing and final acceptance.
 
 ## GitHub activity
 
@@ -104,8 +108,8 @@ AI helps me move faster, but I remain responsible for requirements, architectura
 ## Current direction
 
 - Improving InstaClip toward a reliable private beta.
-- Deepening Python backend and API engineering skills.
-- Learning React, Next.js and TypeScript through working applications.
+- Strengthening frontend engineering, product design and UI design through working applications.
+- Deepening backend and deployment experience with Supabase and Cloudflare.
 - Turning private project experience into sanitized public case studies.
 - Completing a Bachelor of Computer Science in Software Development at NUST, expected April 2027.
 
