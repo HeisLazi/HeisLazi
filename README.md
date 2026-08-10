@@ -33,6 +33,7 @@ lazarus = {
 - **Product and UI design** - owning product direction, interaction decisions and interface design, with AI used as an implementation assistant.
 - **Frontend development** - building and refining usable interfaces across JavaScript, React, Next.js, HTML and CSS.
 - **AI-assisted delivery** - coordinating planning and implementation while keeping human judgment in charge of design, architecture and acceptance.
+- **Product restraint and AI-slop elimination** - removing generic AI patterns, unnecessary features, redundant abstractions and visual noise so each product stays focused, distinctive and viable.
 - **QA and verification** - testing, type checks, builds, manual acceptance and security-boundary review.
 - **Backend and platform experience** - integrating application services and deployments with Supabase and Cloudflare.
 
@@ -95,7 +96,7 @@ flowchart LR
     E -->|fail| B
 ```
 
-AI helps me implement faster, but it does not create my product direction or UI decisions. I remain responsible for requirements, user experience, architecture, reviewing generated changes, correcting failures, testing and final acceptance.
+AI helps me implement faster, but it does not create my product direction or UI decisions. I remain responsible for requirements, user experience, architecture, reviewing generated changes, correcting failures, testing and final acceptance. That includes removing AI-induced bloat and generic patterns before they reach the product.
 
 ## GitHub activity
 
