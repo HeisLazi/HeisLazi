@@ -97,9 +97,6 @@ AI helps me move faster, but I remain responsible for requirements, architectura
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeisLazi&show_icons=true&hide_border=true&bg_color=1D2021&title_color=D79921&text_color=EBDBB2&icon_color=83A598&ring_color=98971A" height="165" alt="Lazarus's GitHub statistics" />
-<img src="https://streak-stats.demolab.com?user=HeisLazi&hide_border=true&background=1D2021&stroke=504945&ring=D79921&fire=D65D0E&currStreakNum=EBDBB2&sideNums=EBDBB2&currStreakLabel=83A598&sideLabels=BDAE93&dates=928374" height="165" alt="Lazarus's GitHub contribution streak" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeisLazi&bg_color=1D2021&color=EBDBB2&line=D79921&point=83A598&area=true&hide_border=true" width="100%" alt="Lazarus's GitHub activity graph" />
 
 </div>
@@ -123,4 +120,3 @@ Open to **part-time, remote and project-based opportunities** outside standard w
 ![Profile views](https://komarev.com/ghpvc/?username=HeisLazi&color=D79921&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
