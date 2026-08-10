@@ -10,11 +10,11 @@
 
 </div>
 
-## Hey, I'm Lazarus
+## I'm Lazi 🦦
 
-I'm a **product-focused software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I turn operational needs and ambiguous ideas into structured requirements, thoughtful interfaces, and human-reviewed software.
+Yea umm so I'm a **product-focused software developer** and Computer Science student based in Windhoek, Namibia. I currently work as a **Software Development Intern at Edge Technology Solutions**, where I turn operational needs and ambiguous ideas into structured requirements, thoughtful interfaces, and human-reviewed software.
 
-My work currently spans requirements analysis, product and UI design, frontend development, QA, and delivery management. I create the product direction, user flows, interface decisions, and acceptance criteria; AI assists with implementation, while I remain responsible for scope, design quality, testing, verification, and final acceptance. I also have backend and deployment experience with Supabase and Cloudflare.
+My work currently spans requirements analysis, product and UI design, frontend development, QA, and delivery management. I create the product direction, user flows, interface decisions, and acceptance criteria; AI assists with implementation, while I remain responsible for scope, design quality, testing, verification, and final acceptance. I also have backend and deployment experience with Supabase, Vercel and Cloudflare.
 
 ```python
 lazarus = {
@@ -35,7 +35,7 @@ lazarus = {
 - **AI-assisted delivery** - coordinating planning and implementation while keeping human judgment in charge of design, architecture and acceptance.
 - **Product restraint and AI-slop elimination** - removing generic AI patterns, unnecessary features, redundant abstractions and visual noise so each product stays focused, distinctive and viable.
 - **QA and verification** - testing, type checks, builds, manual acceptance and security-boundary review.
-- **Backend and platform experience** - integrating application services and deployments with Supabase and Cloudflare.
+- **Backend and platform experience** - integrating application services and deployments with Supabase, Vercel and Cloudflare.
 
 ## Featured work
 
