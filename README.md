@@ -21,7 +21,7 @@ lazarus = {
     "role": "Product-focused software developer",
     "focus": ["Requirements analysis", "Product design", "UI design", "QA"],
     "delivery": "AI-assisted implementation with human direction and verification",
-    "platform_experience": ["Supabase", "Cloudflare"],
+    "platform_experience": ["Supabase", "Vercel", "Cloudflare"],
     "degree": "BSc Computer Science — Software Development",
     "principle": "Speed matters. Correctness still owns the merge button.",
 }
@@ -41,10 +41,10 @@ lazarus = {
 
 | Project | What it demonstrates | Status |
 |:---|:---|:---:|
+| [**InstaClip**](https://github.com/HeisLazi/InstaClip) | Local-first desktop workspace for turning long-form VODs into reviewable short-form clips using transcription, multi-signal detection, editing and a creator-taste feedback loop. | Public edition |
+| [**CNTKNW**](https://github.com/HeisLazi/cntknw) | Offline reading, annotation and knowledge environment built around durable local data, exact page provenance and a continuous journal. | Active development |
+| **LwK Trading Platform** | Local-first crypto research and paper-trading prototype with strategy evaluation, simulated execution, risk controls, research agents and a Next.js operations dashboard. No live trading. | Private prototype |
 | [**AI Skill Video Extractor**](https://github.com/HeisLazi/ai-skill-video-extractor) | Python pipeline that converts YouTube videos into structured, reviewable evidence for reusable AI-agent skills. Includes versioned schemas, uncertainty tracking, deduplication, cost controls and offline tests. | Public |
-| [**Productivity Web Application**](https://github.com/HeisLazi/Productivity-Web-Application) | A Next.js productivity workspace with task and event management, hierarchical notes, local persistence and an interactive timeline. | Public |
-| **InstaClip** | Local-first desktop workspace for turning long-form VODs into reviewable short-form clip candidates using transcription, multi-signal detection and AI-assisted ranking. | Private beta |
-| **CNTKNW** | Offline reading, annotation and knowledge environment designed around durable local data, page provenance and a continuous journal. | In development |
 
 > Some active repositories remain private while they contain company work, unreleased product code or early-stage experiments. Public case studies and sanitized technical write-ups will be added as they become suitable for release.
 
@@ -108,7 +108,9 @@ AI helps me implement faster, but it does not create my product direction or UI 
 
 ## Current direction
 
-- Improving InstaClip toward a reliable private beta.
+- Hardening InstaClip's focused public edition while continuing the private commercial product.
+- Restructuring StudyBuddy into a focused public V2 without carrying over legacy bloat.
+- Preparing LwK for a safe public paper-trading case study.
 - Strengthening frontend engineering, product design and UI design through working applications.
 - Deepening backend and deployment experience with Supabase and Cloudflare.
 - Turning private project experience into sanitized public case studies.
