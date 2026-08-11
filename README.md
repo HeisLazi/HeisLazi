@@ -42,7 +42,7 @@ lazarus = {
 | Project | What it demonstrates | Status |
 |:---|:---|:---:|
 | [**InstaClip**](https://github.com/HeisLazi/InstaClip) | Local-first desktop workspace for turning long-form VODs into reviewable short-form clips using transcription, multi-signal detection, editing and a creator-taste feedback loop. | Public edition |
-| [**CNTKNW**](https://github.com/HeisLazi/cntknw) | Offline reading, annotation and knowledge environment built around durable local data, exact page provenance and a continuous journal. | Active development |
+| [**CNTKNW**](https://github.com/HeisLazi/cntknw) | A private, offline-first study and knowledge studio where readers can explore books and PDFs, annotate exact passages, keep connected journals, map ideas visually and move from reading into focused study without surrendering their data to the cloud. | Active development |
 | **LwK Trading Platform** | Local-first crypto research and paper-trading prototype with strategy evaluation, simulated execution, risk controls, research agents and a Next.js operations dashboard. No live trading. | Private prototype |
 | [**AI Skill Video Extractor**](https://github.com/HeisLazi/ai-skill-video-extractor) | Python pipeline that converts YouTube videos into structured, reviewable evidence for reusable AI-agent skills. Includes versioned schemas, uncertainty tracking, deduplication, cost controls and offline tests. | Public |
 
